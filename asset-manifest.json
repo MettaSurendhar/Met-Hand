@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Met-Hand/static/css/main.4ccf7aeb.css",
+    "main.js": "/Met-Hand/static/js/main.47704a86.js",
+    "index.html": "/Met-Hand/index.html",
+    "main.4ccf7aeb.css.map": "/Met-Hand/static/css/main.4ccf7aeb.css.map",
+    "main.47704a86.js.map": "/Met-Hand/static/js/main.47704a86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ccf7aeb.css",
+    "static/js/main.47704a86.js"
+  ]
+}
